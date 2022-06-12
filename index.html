@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" />
+        <title>Home</title>
+    </head>
+    <body onload = "siteView()">
+        <div class="container-fluid bg-info px-0">
+            <nav class="navbar navbar-expand-lg w-100 navbar-dark bg-dark">
+                <a class="navbar-brand pr-3" href="index.html" style="font-size: 1.7em;">Andrew Euler</a>
+                <img class="img-fluid" src="briefcase.svg" style="width: 60px;" alt="Logo" />
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item px-3 active">
+                            <a class="nav-link active" href="index.html" style="font-size: 1.2em;">Home</a>
+                        </li>
+                        <li class="nav-item px-3">
+                            <a class="nav-link active" href="about.html" style="font-size: 1.2em;">About</a>
+                        </li>
+                        <li class="nav-item px-3">
+                            <a class="nav-link active" href="contact.html" style="font-size: 1.2em;">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+          
+            <div class="jumbotron bg-cover w-100 text-white" style="margin: 0 auto; background-image: url(https://mdbcdn.b-cdn.net/img/new/slides/041.webp); min-height: 530px; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-position: 50% 50%;">
+                <h1 class="display-4 mt-2 mb-2 ml-2 mr-2"><strong>Welcome to my personal portfolio!</strong></h1>
+                <p class="lead mt-2 mb-2 ml-2 mr-2"><b>Find sample projects, work projects, and more.</b></p>
+                <button type="submit" class="btn btn-primary mt-2 mb-2 ml-2 mr-2" onclick="window.location.href = 'about.html'">
+                    Learn more
+                </button>
+            </div>
+        </div>
+      
+        <div class="container-fluid w-100 bg-info">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="text-white mt-2 mb-2 ml-2 mr-2">
+                        Personal biography
+                    </h1>
+                    <p class="text-white mt-2 mb-2 ml-2 mr- 2">
+                        Hello! My name is Andrew Euler, a student at Salem High School & Advanced Technology Center located in Virginia Beach, VA. I have studied a wide range of IT-related topics:
+                    </p>
+					<ul class = "mt-2 mb-2 ml-2 mr-2" style = "list-style-type: circle;">
+					<li class = "text-white">Networking</li>
+					<li class = "text-white">Cybersecurity</li>
+					<li class = "text-white">Web Development</li>
+					</ul>
+                </div>
+
+                <div class="col-md-5 ml-auto px-0">
+                    <header class="w-100">
+                        <div class="card-deck" style="width: 365px;">
+                            <div class="card mt-3 mb-3">
+                                <img class="card-img-top" src="https://i.imgur.com/lZOP4DU_d.webp?maxwidth=1520&fidelity=grand&scrlybrkr=3effe5ec" alt="professional picture" />
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        Web Developer, Cybsecurity professional, Network Administrator
+                                    </h5>
+                                    <p class="card-text">
+                                        Studying at Tidewater Community College for an Associate of Applied Science in CyberSecurity; plans on heading to Old Dominon University for a Bachelor & Masters in Cybersecurity.
+                                    </p>
+                                    <button type="submit" class="btn btn-primary" onclick="window.location.href = 'https://www.linkedin.com/in/andrew-euler-91118920a/'">
+                                        Connect
+                                    </button>
+                                    <button type="submit" class="btn btn-info" onclick="window.location.href = 'Euler Resume.pdf'">
+                                        Resume
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid w-100 bg-dark">
+            <div class="row">
+                <footer class="w-100">
+                    <p class="text-white text-center mt-4 mb-4 ml-4 mr-4">
+                        Phone: (831) 324-8537 <br />
+                        Email: andreweuler01@gmail.com
+                    </p>
+                </footer>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
