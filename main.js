@@ -12,14 +12,3 @@ function info() {
         return false;
     }
 }
-
-function siteView() {
-    var age = parseInt(prompt("What is your age?"));
-    if (age >= 15) {
-        alert("You are allowed to visit the website! :)");
-    }
-    if (age < 15) {
-        parseInt(alert("You are not elgible to visit this website however, you will be elgible in " + (15 - age) + " " + "years!"));
-		window.location.href = "https://tinyurl.com/y4dffd56";
-    }
-}
