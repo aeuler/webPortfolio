@@ -1,4 +1,6 @@
-# Hello! Welcome to my web portfolio!
+# Web Portfolio
+
+Hello! Welcome to my web portfolio!
 
 This website was bult using HTML, CSS, and JavaScript while using the Bootstrap 4.6 version of the framework.
 
