@@ -2,7 +2,7 @@
 
 Welcome to my web portfolio!
 
-This website was built using HTML, CSS, and JavaScript. Development was sped up by utilizing the Bootstrap framework.
+Development was sped up by utilizing the Bootstrap framework.
 
 If you have any questions/concerns feel free to message.
 
