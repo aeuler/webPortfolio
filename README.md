@@ -8,4 +8,4 @@ If you have any questions/concerns feel free to email at andreweuler01@gmail.com
 
 Drafted by Andrew Euler.
 
-Update: Some changed were implemented that were updated in new version. 
+Update: Some changes were implemented that were updated in new version. 
