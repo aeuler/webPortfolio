@@ -2,8 +2,6 @@
 
 Welcome to my web portfolio!
 
-Development was sped up by utilizing the Bootstrap framework.
-
 This project showcases many of the items that Bootstrap allows you to develop, including fluid containers, text boxes, and responsive design.
 
 This is excellent for an intro to web development course or those learning web development on their own.
