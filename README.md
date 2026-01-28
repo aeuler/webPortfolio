@@ -8,4 +8,4 @@ This is excellent for an intro to web development course or those learning web d
 
 Drafted by Andrew Euler.
 
-Note: This version of Boostrap was 4.6, so changed in the framework may vary.
+Note: This version of Boostrap was 4.6, so changes in the framework may vary.
