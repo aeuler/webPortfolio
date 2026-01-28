@@ -4,10 +4,10 @@ Welcome to my web portfolio!
 
 Development was sped up by utilizing the Bootstrap framework.
 
-If you have any questions/concerns feel free to message.
+This project showcases many of the items that Bootstrap allows you to develop, including fluid containers, text boxes, and responsive design.
 
-This project is excellent for an intro to cs course, intro to web development course, or those wanting to lean web development.
+This is excellent for an intro to web development course or those learning web development on their own.
 
 Drafted by Andrew Euler.
 
-Note: This version of Boostrap was 4.6, since project creation, the latest version of Boostrap is 5.1.3 at time of writing.
+Note: This version of Boostrap was 4.6, so changed in the framework may vary.
